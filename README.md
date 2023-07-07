@@ -66,4 +66,4 @@ Un plano inclinado es una superficie que está dispuesta en forma de rampa. Los 
 se utilizo python como lenguaje de programación y tkinter como biblioteca de interfaz gráfica 
 
 ## video 
-https://youtu.be/fOeLx8E9EBQ
+https://youtu.be/6NzIuuSpvZU
